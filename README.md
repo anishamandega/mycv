@@ -7,7 +7,6 @@
 # Built With
 ### HTML
 ### CSS
-### Bootstrap
 
 # Credits
 ### The design and content of this CV were created by Anisha Mandega.
